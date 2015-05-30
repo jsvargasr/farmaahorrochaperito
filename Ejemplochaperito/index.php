@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "hola como estas====Z";
+        echo "hola como estaewewewwerwerwrs====Z";
         ?>
     </body>
 </html>
